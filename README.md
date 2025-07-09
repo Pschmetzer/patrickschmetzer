@@ -46,13 +46,6 @@ I lead teams, build tools, and code when needed — always with a focus on perfo
 
 ---
 
-## 📊 GitHub Stats
-
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickschmetzer&show_icons=true&theme=tokyonight&hide_rank=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickschmetzer&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - 🌐 Website: [modelsuite.ai](https://modelsuite.ai)  
 - 💼 LinkedIn: [Patrick Schmetzer](https://www.linkedin.com/in/patrickschmetzer)  
